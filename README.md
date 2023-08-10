@@ -1,5 +1,4 @@
-# Bootcamp DIO
-# Orientação a objetos com Kotlin
+# Orientação a objetos com Kotlin - Bootcamp DIO
 
 ## O problema que iremos resolver:
 Nosso cliente possui uma loja que vende alimentos e produtos de limpeza. Para adequar sua loja perante as leis locais é necessário.
